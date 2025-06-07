@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eventos Extremos</string>
+    <string name="incluir">Incluir</string>
+    <string name="excluir">Excluir</string>
+    <string name="titulo">Registro de Eventos Extremos</string>
+    <string name="campo_nome">Nome do local</string>
+    <string name="campo_tipo">Tipo de evento extremo</string>
+    <string name="campo_grau">Grau de impacto</string>
+    <string name="campo_data">Data do evento</string>
+    <string name="campo_numero_pessoas">Número de pessoas afetadas</string>
+</resources>
